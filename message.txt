@@ -84,7 +84,7 @@ local screenmsg = false -- Makes it if the screen gui text appears or not
 local screentext = "Fake Loading Screen Nerd!" -- Changes the screen text
 
 -- Other settings
-local voicelines = false -- toggles the funny chat lol Ex: [ILLUSION] NOTHING IS AS IT SEEMS --
+local voicelines = true -- toggles the funny chat lol Ex: [ILLUSION] NOTHING IS AS IT SEEMS --
 
 print('How to find keys: Click CTRL + F And Search the word "Key" Then look at the mode name the button that says Enum.KeyCode.KeyCode And Where keycode is in this line is where the key should be in the actual script | Newest mode is extinction | Why do it be printing reset in console :Thinking | Dont do drugs unless perscribed | Wow v12 Of this? I must have no life |')
 --Options end here!
