@@ -38,7 +38,7 @@ game:GetService("Players").LocalPlayer.Character["Smile"].Name = "uhyes"
 
 game:GetService("Players").LocalPlayer.Character["Evil Aura"].Name = "aesword"
 
-game:GetService("Players").LocalPlayer.Character["Sword Halo"].Name = "poggers"
+game:GetService("Players").LocalPlayer.Character["swordhalo"].Name = "poggers"
 
 game:GetService("Players").LocalPlayer.Character["Nebula Blade"].Name = "Auragamer"
 
