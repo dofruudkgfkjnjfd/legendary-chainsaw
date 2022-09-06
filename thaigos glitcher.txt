@@ -27,7 +27,7 @@ game:GetService("RunService").Heartbeat:connect(function()
 v.Velocity = Vector3.new(0,29.99,0)
 end)
 -- -gh 4932541287,4855847190
-game:GetService("Players").LocalPlayer.Character["Evil Aura"].Name = "evil"
+game:GetService("Players").LocalPlayer.Character["Divine Aura"].Name = "evil"
 game:GetService("Players").LocalPlayer.Character["Northern Star"].Name = "northern"
 game:GetService("Players").LocalPlayer.Character["swordhalo"].Name = "first"
 game:GetService("Players").LocalPlayer.Character["MeshPartAccessory"].Name = "1"
