@@ -360,7 +360,7 @@ text.TextStrokeTransparency = 0
 text.Font = "Fantasy"
 text.TextStrokeColor3 = Color3.new(0,0,0)
 text.TextColor3 = Color3.new(1,0,0)
-text.Text = "Solitude"
+text.Text = "Anti-skidded Solitude"
 
 pcall(function() Char.ReaperShadowHead.Eye1.BrickColor = BrickColor.new'Black' end)
 pcall(function() Char.ReaperShadowHead.Eye2.BrickColor = BrickColor.new'Black' end)
